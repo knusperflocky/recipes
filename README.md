@@ -1,4 +1,4 @@
-# [mirrorkey.dev/recipes](https://mirrorkey.dev/recipes)
+# [knusperflocky.github.io/recipes](https://knusperflocky.github.io/recipes)
 
 > A minimal site that hosts recipes for easy access.
 
