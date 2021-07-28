@@ -5,7 +5,7 @@ tags:
   - "vegetarian"
 ---
 
-> Low sugar version with chocolate chips
+> A sweet bread and a German breakfast favorite
 
 <div class="figure">
 
