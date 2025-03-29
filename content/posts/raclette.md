@@ -16,7 +16,7 @@ date: 2021-05-30T21:04:59-07:00
 ## Ingredients (toppings)
 
 - Chopped onion
-- Peas/corn
+- Peas/corn/brussel sprouts
 - Carne asada
 - Meatballs
 - Teriyaki chicken
