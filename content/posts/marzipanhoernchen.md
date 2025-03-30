@@ -11,14 +11,14 @@ tags:
 
 <div class="figure">
 
-![Hoernchen](/images/Marzipanhoernchen.png)
+![Hoernchen](/images/Marzipan.png)
 
 </div>
 
 
 | Prep   | Bake | Serves |
 | :----: | :----: | :----: |
-| 10 min | 15-20 min | 4-6 |
+| 10 min | 15-20 min | 20-24 cookies |
 
 ## Ingredients
 
