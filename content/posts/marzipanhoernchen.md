@@ -22,7 +22,7 @@ tags:
 
 ## Ingredients
 
-- 400 g marzipan dough (buy at Fred Meyer or homemade)
+- 400 g marzipan dough (buy at Fred Meyer or homemade (see here: [Almond paste](/posts/marzipan))
 - 150 g powdered sugar
 - 2 egg whites (ca. 50g) 
 - 70 g ground almonds 
