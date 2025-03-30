@@ -11,7 +11,7 @@ tags:
 
 <div class="figure">
 
-![Hoernchen](/images/Marzipan.png)
+![Hoernchen](/images/Marzipanhoernchen.png)
 
 </div>
 
