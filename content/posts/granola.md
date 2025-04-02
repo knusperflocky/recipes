@@ -1,13 +1,13 @@
 ---
-title: "Olive Oil and Maple Granola"
-date: 2025-04-25T09:03:18-07:00
+title: "Granola (Olive Oil and Maple)"
+date: 2021-05-25T09:03:18-07:00
 tags:
   - "vegetarian"
   - "low carb"
   - "keto"
 ---
 
-> Very crunchy and nutty snack enjoyed with milk or just like that 
+> Very crunchy and nutty snack enjoyed with milk or just like that
 
 <div class="figure">
 
@@ -45,3 +45,5 @@ tags:
 1. Let it cool down completely and then brake in smaler pieces to fill in jars
 1. Enjoy with milk and share with friends and family
 
+
+_Adapted from my friend Jenn's recipe._
