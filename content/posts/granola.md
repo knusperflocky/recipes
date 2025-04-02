@@ -11,7 +11,7 @@ tags:
 
 <div class="figure">
 
-![Hoernchen](/images/Granola.jpg)
+![Granola](/images/Granola.jpg)
 
 </div>
 
