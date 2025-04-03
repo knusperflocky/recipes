@@ -16,9 +16,9 @@ tags:
 </div>
 
 
-| Prep   | Bake | Yields |
+| Prep   | Mix | Yields |
 | :----: | :----: | :----: |
-| 10 min | 45 min | 6-7 mason jars |
+| 5 min | 1 min | 1 jelly jar |
 
 ## Ingredients
 
