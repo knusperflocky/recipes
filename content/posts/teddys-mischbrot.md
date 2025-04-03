@@ -1,5 +1,5 @@
 ---
-title: "Teddy's sourdough bread (Mischbrot))"
+title: "Teddy's sourdough bread (Mischbrot)"
 date: 2021-05-25T09:03:18-07:00
 tags:
   - "vegetarian"
@@ -7,7 +7,7 @@ tags:
   - "keto"
 ---
 
-> This is the most authentic German sourdough rye bread with 50% rye, 25% whole wheat, 25% white wheat. Has a crunchy crust and is even more delicious with added seeds like pumpking, flax or sunflower.It requires a sourdough starter.
+> This is the most authentic German sourdough rye bread with 50% rye, 25% whole wheat, 25% white wheat. Has a crunchy crust and is even more delicious with added seeds like pumpking, flax or sunflower. It requires a sourdough starter.
 
 <div class="figure">
 
@@ -47,9 +47,9 @@ For the bread:
 - 420 g luke warm filtered water
 
 optional:
-- 100 g sunflower seeds
-- 100 g pumpkin seeds
-- 100 g flax seeds
+- 60 g sunflower seeds
+- 60 g pumpkin seeds
+- 60 g flax seeds
 
 Tools: very sharp non-serrated knife for scoring, spray bottle filled with water, flat bowl filled with water
 
@@ -61,7 +61,7 @@ Tools: very sharp non-serrated knife for scoring, spray bottle filled with water
 1. From the finished sourdough, reserve 25g as starter for the next time (store in sealed glass jar), using the remaining 500g.
 1. Mix the sourdough with the lukewarm water, then add the salt and mix.
 1. Mix the flours together slightly, add to the sourdough, and knead with a food processor for about 5 minutes. Cover and let rest for 30 minutes.
-1. Knead again, shape, and place in a floured proving basket. Put in a large plastic bag and let rise for about 2 hours, making sure the plastic doesn't touch the dough. 
+1. Knead again, shape, and place in a floured proving basket. Put in a large plastic bag, and fold so no air can get in. Let rise for about 2 hours, making sure the plastic doesn't touch the dough. 
 1. Preheat oven to 250°C (450°F) and prepare a very sharp non-serrated knife in a glass of water and a spray bottle filled with water (for misting). Place a shallow bowl filled with water on the bottom of your oven. 
 
 The next steps have to be executed very fast as the dough starts to collapse quick once dropped onto the baking sheet. 
