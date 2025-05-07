@@ -68,7 +68,7 @@ The next steps have to be executed very fast as the dough starts to collapse qui
 1. Carefully drop the bread onto a baking mat, quickly score several deep lines into the top, spray with water around the edges and place into oven.
 1. After one minute quickly spray with the water bottle several times into the oven (creating steam)
 1. Bake on 250°C (480°F) for 10 minutes. Then turn heat down to 220°C (430°F) for another 15 minutes. Finally reduce the heat to 180°C (350°F) and bake for another 35-40 minute (crust will brown).
-1. Remove from oven and place on a cooling rack.Place on a floured or parchment-lined baking sheet and score several times.
+1. Remove from oven and place on a cooling rack. Place on a floured or parchment-lined baking sheet and score several times.
 
 
 
