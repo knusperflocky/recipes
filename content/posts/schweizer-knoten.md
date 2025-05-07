@@ -10,6 +10,7 @@ tags:
 <div class="figure">
 
 ![Swissknoten](/images/Swissknoten.JPG)
+![Swissknoten](/images/Schweizerknoten.png)
 
 </div>
 
@@ -22,7 +23,7 @@ tags:
 
 - 1/2 stick butter (60g), softened
 - 250 ml milk
-- 2 egg
+- 1 + 1 egg
 - 500 g flour
 - 1.5 tsp salt
 - 3 tbsp sugar
