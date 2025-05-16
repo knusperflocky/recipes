@@ -65,4 +65,4 @@ tags:
 4. Dip in melted tempered chocolate or paint with sugar glaze (for my neighbor Eric who does not like anything chocolate ♥)
 
 
-_Translated to English from my mom's recipe._
+_Adapted from this great video by "Cupcake Jemma": [Profiteroles](https://youtu.be/YQuY9izbbcw?si=1QJkDeGIktGe5aUA) ._
