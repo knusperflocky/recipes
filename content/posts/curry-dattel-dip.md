@@ -11,7 +11,9 @@ tags:
 
 <div class="figure">
 
-![Granola](/images/Datteldip.jpg)
+![Datteldip](/images/Datteldip.jpg)!
+![Datteldip](/images/Datteldip1.jpg)!
+
 
 </div>
 
