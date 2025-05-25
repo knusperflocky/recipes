@@ -25,7 +25,7 @@ tags:
 
 #### Dough
 
-- 100 g flour
+- 150 g flour
 - 125 ml whole milk
 - 125 ml water
 - 100 g butter
