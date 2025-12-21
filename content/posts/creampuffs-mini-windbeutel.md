@@ -29,6 +29,7 @@ tags:
 - 125 ml whole milk
 - 125 ml water
 - 100 g butter
+- 4 eggs
 - 1 dash salt
 - 1 tablespoon sugar
 - piping bag and star tip and a little round tip, 3 mm opening
